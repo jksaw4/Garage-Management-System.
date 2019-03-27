@@ -1,0 +1,2 @@
+EmpId|EmpName|Birthdate|Joining_date|Bloodgrp|Contactno|EmailId|Department
+7054289999|Rupesh|11-04-1996|1-1-2000|ab+|7054289999|rupesh@gmail.com|Mechanic

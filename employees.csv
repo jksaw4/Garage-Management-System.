@@ -1,0 +1,10 @@
+EmpId,EmpName,Birthdate,Joining date,Bloodgrp,Contactno,EmailId,Department
+7054289999,Rupesh,11-04-1996,1-1-2000,ab+,7054289999,rupesh@gmail.com,Mechanic
+8452936224,Rahul,21-05-1990,1-2-2001,a+,8452936224,rahul@gmail.com,Mechanic
+7458963258,Dhiraj,25-01-1978,1-1-2000,b+,7458963258,dhiraj@gmail.com,Mechanic
+4589632223,Abhi,19-06-1968,1-1-2000,o+,4589632223,abhi@gmail.com,Mechanic
+9892085897,Niketan,12-02-1994,1-1-2005,A-,9892085897,niketan@gmail.com,Mechanic
+9964567199,Krishna,13-07-1958,1-1-2006,o-,9964567199,krishna@gmail.com,Admin
+9933445522,Anurag,14-08-1999,1-1-2005,ab+,9933445522,anurag@gmail.com,Finance
+8877559996,Mehmood,20-03-1955,1-1-2003,b-,8877559996,mehmood@gmail.com,Admin
+5566223344,Saish,22-09-1991,1-1-2003,a+,5566223344,saish@gmail.com,Finance

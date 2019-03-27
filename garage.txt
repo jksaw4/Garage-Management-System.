@@ -1,0 +1,9 @@
+Bookingid|AppointmentDates|CustomerName|ContactNo|Make_of_the_car|Model_of_the_car|MechanicName|status_of_the_car|total_cost_of_repair
+8976476827|03/12/18 |Rohan|8976476827|Hyundai|i20|Rahul|completed|4000
+2226300800|03/12/18 |Sunil|2226300800|Suzuki|Baleno|Abhi|completed|2500
+7404505428|03/12/18 |Sagar|7404505428|Skoda|Fabia|Niketan|Pending|0
+9967251990|03/12/18 |Rohit|9967251990|Bmw|320d|Rahul|Pending|0
+8899222546|03/12/18 |Hemant|8899222546|Audi|Q5|Dhiraj|Pending|0
+6879584223|03/12/18 |Bhaskar|6879584223|Jeep|Compass|Abhi|Pending|0
+7778887891|03/12/18 |Bhaskar|6879584223|Jeep|Compass|Abhi|Pending|0
+8855844967|17/08/2018|santosh|8855844967|volvo|v10|Dhiraj|pending|0
